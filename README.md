@@ -1,1 +1,1 @@
-FAMS Face recognition Based Attendance Management System
+FAMS[Face recognition Based Attendance Management System]
